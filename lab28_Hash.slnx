@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="lab28_Hash/lab28_Hash.vcxproj" />
-  <Project Path="prim/prim.vcxproj" />
+  <Project Path="lab28_Hash/lab28_Hash.vcxproj" Id="2d1eee6a-c123-4ef1-8716-917d11804c30" />
+  <Project Path="prim/prim.vcxproj" Id="35608c3f-6fbc-42a1-885c-bb77881a0ed0" />
 </Solution>
